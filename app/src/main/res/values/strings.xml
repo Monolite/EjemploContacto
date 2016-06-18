@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ejemplo Contacto</string>
+    <string name="et_hint_name">Nombre</string>
+    <string name="et_hint_phone">Teléfono</string>
+    <string name="et_hint_mail">Correo</string>
+    <string name="et_hint_description">Descripción</string>
+    <string name="tv_edit_birthdate">Fecha de Nacimiento</string>
+    <string name="bt_submit">Siguiente</string>
+    <string name="act_submited_contact">Contacto</string>
+    <string name="title_activity_display_contact">DisplayContactActivity</string>
+    <string name="tv_label_birthdate">Fecha de Nacimiento: </string>
+    <string name="tv_label_phone">Teléfono: </string>
+    <string name="tv_label_mail">Correo: </string>
+    <string name="tv_label_description">Descripción: </string>
+    <string name="bt_text_edit">Editar</string>
+    <string name="act_edit_contact">Contacto</string>
+</resources>
